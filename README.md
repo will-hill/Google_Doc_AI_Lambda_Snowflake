@@ -17,5 +17,6 @@ To run this system:
 https://github.com/will-hill/Google_Doc_AI_Lambda_Snowflake/blob/main/snowflake.sql. 
 3. Verify your Snowflake credentials
 4. Verify your Document AI REST API call
-5. Verify your Python locally
-6. Deploy your Python from Lambda
+5. Verify your Python locally  
+https://github.com/will-hill/Google_Doc_AI_Lambda_Snowflake/blob/main/lambda_function.py  
+7. Deploy your Python from Lambda
