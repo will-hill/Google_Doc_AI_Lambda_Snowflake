@@ -13,7 +13,7 @@ I used IRS 1040 Sample documents, all containing the same information, but of di
 
 ### Setup:
 To run this system:
-1. Create your table in Snowflake to land the structured data extracted from the documents. 
+1. Create your table in Snowflake to land the structured data extracted from the documents  
 https://github.com/will-hill/Google_Doc_AI_Lambda_Snowflake/blob/main/snowflake.sql. 
 3. Verify your Snowflake credentials
 4. Verify your Document AI REST API call
